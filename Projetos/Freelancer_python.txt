@@ -1,0 +1,22 @@
+Algumas opções de sites para encontrar vagas de freelancer para web scraping e Selenium em Python incluem:
+
+    Upwork (https://www.upwork.com/)
+    Freelancer (https://www.freelancer.com/)
+    Guru (https://www.guru.com/)
+    Fiverr (https://www.fiverr.com/)
+    Toptal (https://www.toptal.com/)
+    Indeed (https://www.indeed.com/)
+    Glassdoor (https://www.glassdoor.com/)
+    FlexJobs (https://www.flexjobs.com/)
+    PeoplePerHour (https://www.peopleperhour.com/)
+    SimplyHired (https://www.simplyhired.com/)
+    
+    Certifique-se de criar um perfil completo e de qualidade, destacando suas habilidades em web scraping e Selenium em Python,
+e se candidatar a projetos relevantes para suas habilidades.
+    Boa sorte na busca por oportunidades de freelancer!
+
+
+    a verificação em duas etapas não está configurada na sua conta;
+a verificação em duas etapas está configurada apenas para chaves de segurança;
+você usa uma conta do trabalho, da escola ou de outra organização;
+você ativou o Proteção Avançada.
